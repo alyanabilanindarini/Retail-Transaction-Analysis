@@ -17,7 +17,7 @@ In this case study, a retail company recently implemented a transaction recordin
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Transaction_Dashboard.png)
+![Dashboard](Transaction_Dashboard.pdf)
 
 ## 🔑 Key Performance Indicators (KPIs)
 
@@ -45,4 +45,4 @@ The Entertainment category received the highest discount allocation among all ca
 
 ## 🚀 Dashboard Access
 
-🔗 [View Interactive Dashboard]([PASTE_YOUR_LOOKER_STUDIO_LINK_HERE](https://datastudio.google.com/reporting/dbde45d3-d4a6-4dc0-b6fb-1ade3bf2c693))
+🔗 [View Interactive Dashboard](https://datastudio.google.com/reporting/dbde45d3-d4a6-4dc0-b6fb-1ade3bf2c693)
